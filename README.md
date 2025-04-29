@@ -6,7 +6,7 @@ This project provides Python scripts to convert workout data exported from the *
 
 By converting your `gymrun.csv` export to a Strong-compatible format, you can then use Hevy's import feature to bring your workout history across.
 
-## Files and Functions
+## Files
 
 *   **`convert.py`**:
     *   This is the main script for performing the conversion.
